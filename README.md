@@ -4,9 +4,7 @@
 * [Description](#description)
 * [URL](#url)
 * [Installation](#installation)
-* [Credits](#credits)
 * [License](#license)
-* [Contributing](#contributing)
 * [Usage](#usage)
 * [Questions](#questions)
 ## Description 
@@ -17,10 +15,6 @@ A Budget Tracker application that allows users to add expenses and deposits to t
 ## Installation
 1. Download or close repository 
 2. ```npm install``` to install the required npm packages to run 
-## Credits
-undefined
-## Contributing
-undefined
 ## Usage
 * Aapplicaation will be invoked by using the following command:
 ```
