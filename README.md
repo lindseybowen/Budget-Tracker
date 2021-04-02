@@ -35,5 +35,5 @@ http://locaalhost:3000
 ![](Budgetpic1.png)
 ![](Budgetpic.png)
 ## Questions
-Please contact me below with any questions you have about the appiction.
+Please contact me below with any questions you have about the application.
 * Github: https://github.com/lindseybowen
