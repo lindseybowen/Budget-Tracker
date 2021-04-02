@@ -15,11 +15,11 @@ A Budget Tracker application that allows users to add expenses and deposits to t
 1. Download or close repository 
 2. ```npm install``` to install the required npm packages to run 
 ## Usage
-* Aapplicaation will be invoked by using the following command:
+* Application will be invoked by using the following command:
 ```
 node server.js
 ```
-* Open your brower and go to 
+* Open your browser and go to 
 ```
 http://locaalhost:3000
 ```
